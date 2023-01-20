@@ -7,8 +7,8 @@
 
 
 [![Yasin Senel's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=edoo37&theme=highcontrast)]
-![Yasin Senel's GitHub stats](https://github-readme-stats.vercel.app/api?username=edoo37&show_icons=true&theme=radical)
-[![Top Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edoo37&layout=compact)]
+![Yasin Senel's GitHub stats](https://github-readme-stats.sigma-five.vercel.app/api?username=edoo37&show_icons=true&theme=radical)
+[![Top Used Langs](https://github-readme-stats.sigma-five.vercel.app/api/top-langs/?username=edoo37&layout=compact)]
 
 <!---
 edoo37/edoo37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
