@@ -7,7 +7,7 @@
 
 
 [![Yasin Senel's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=edoo37&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
-<!--
+
 ![Yasin Senel's GitHub stats](https://github-readme-stats.vercel.app/api?username=edoo37&show_icons=true&theme=radical)
 [![Top Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edoo37&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
